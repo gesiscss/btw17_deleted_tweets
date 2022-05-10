@@ -1,0 +1,6 @@
+install.packages("mongolite")
+install.packages("jsonlite")
+install.packages("tidyverse")
+install.packages("academictwitteR")
+install.packages("httr")
+install.packages("stringdist")
