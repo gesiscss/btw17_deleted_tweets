@@ -1,9 +1,16 @@
 # BTW17 deleted tweets
 
-Rehydration based on the BTW17 collection. You can launch this repository from binder. Please note that you need a [bearer token](https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens) from the [Academic Twitter API](https://developer.twitter.com/en/products/twitter-api/academic-research) in order to run the entire pipeline.
+Rehydration of the BTW17 politicians tweets using the Academic Twitter API.  
 
+# Running the code
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.binder.org/v2/gh/gesiscss/btw17_deleted_tweets/HEAD)
+***Important:*** You need a [bearer token](https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens) from the [Academic Twitter API](https://developer.twitter.com/en/products/twitter-api/academic-research) in order to run the pipeline.
+
+Once you have the [bearer token](https://developer.twitter.com/en/docs/authentication/oauth-2-0/bearer-tokens), you can add it in the Step 2 of the pipeline. 
+
+Click here to use the code live on GESIS Servers:
+
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/gesiscss/btw17_deleted_tweets/HEAD?urlpath=lab/tree/Pipeline)
 
 
 # Credits
